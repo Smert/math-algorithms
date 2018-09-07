@@ -18,10 +18,6 @@ function toFunction(arr) {
 }
 ```
 
-| Create        | Read |
-|---------------|------|
-| O(N^2) + Eval | O(1) |
-
 ```javascript
 var a = toFunction([5,7,4,3]);
 
